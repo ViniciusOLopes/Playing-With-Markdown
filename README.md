@@ -1,28 +1,54 @@
 # Playing-With-Markdown
-I'm learning markdown and testing some comands in github.
 
-### :white_check_mark: Check Marks
+### :camera: Me
+
+* Hi there! :raised_hand_with_fingers_splayed: my name is Vinicius, I'm a Computer Science student. 
+* I'm learning markdown and testing some commands here.
+  
+<img width="250" height="250" alt="mine-octocat" src="https://github.com/user-attachments/assets/29c12913-e432-45f1-a693-304475b4f730" />
+
+<table>
+<tr>
+  <td width = "50%" align= "center">
+    
+  ### :computer: Programing technologies
+      
+  Num | Technologies | Grade
+  ---|---|---
+  1 | Python | :star: :star: :star: :star: :star:
+  2 | C#     | :star: :star: :star: :star: :star:
+  3 | C      | :star: :star: :star: :star: :star:
+  
+    
+  </td>
+  
+  <td width = "50%" align= "center">
+    
+  ### :game_die: Hobbies
+  
+  Num | Hobie 
+  ---|---
+  1  | D&D RPG's  
+  2  | Lake Fishing
+  3  | Playing video games
+
+  </td>
+</tr>
+</table>
+      
+### :white_check_mark: MarkDown Check Marks
+
 Must do list:
-
 - [x] Tables
 - [x] Images
 - [x] Links
 - [x] Badges
 - [x] Codes
-- [ ] Alerts
-
-### :clipboard: Table
-Num | Tecnologies | Grade
----|---|---
-1 | Python | ⭐⭐⭐⭐⭐
-2 | C# | ⭐⭐⭐⭐⭐
-3 | D&D | ⭐⭐⭐⭐⭐
+- [X] Alerts
+- [x] HTML
 
 
-### :camera: Image
-
-<img width="250" height="250" alt="mine-octocat" src="https://github.com/user-attachments/assets/29c12913-e432-45f1-a693-304475b4f730" />
-
+  
 ### :computer: Codes
 
 * :penguin: **Linux**
@@ -31,13 +57,16 @@ Num | Tecnologies | Grade
 sudo apt install cowsay
 cowsay "Muu!!"
 ```
+```HTML
+ ```
 
 ### Links
 
-* [Access my github clicking here](https://github.com/ViniciusOLopes)
-* [Acess to ikatyang emoji repositories](https://github.com/ikatyang/emoji-cheat-sheet)
+* :octocat:[ My github clicking here](https://github.com/ViniciusOLopes)
+* :octocat:[ Access to ikatyang emoji repositories](https://github.com/ikatyang/emoji-cheat-sheet)
 
 ### Alerts:.
+
 >[!TIP]
 >Take de code to make your own .rm arquive
 
