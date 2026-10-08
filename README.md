@@ -30,7 +30,7 @@ Num | Tecnologies | Grade
 ```linux
 sudo apt install cowsay
 cowsay "Muu!!"
-
+```
 
 ### Links
 
