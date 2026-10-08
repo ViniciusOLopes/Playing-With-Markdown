@@ -7,17 +7,18 @@
   
 <img width="250" height="250" alt="mine-octocat" src="https://github.com/user-attachments/assets/29c12913-e432-45f1-a693-304475b4f730" />
 
+### More about me
 <table>
 <tr>
   <td width = "50%" align= "center">
     
   ### :computer: Programing technologies
       
-  Num | Technologies | Grade
-  ---|---|---
-  1 | Python | :star: :star: :star: :star: :star:
-  2 | C#     | :star: :star: :star: :star: :star:
-  3 | C      | :star: :star: :star: :star: :star:
+  Num | Technologies 
+  ---|---
+  1 | Python 
+  2 | C#     
+  3 | C      
   
     
   </td>
@@ -49,7 +50,7 @@ Must do list:
 
 
   
-### :computer: Codes
+### :computer: Code
 
 * :penguin: **Linux**
 
@@ -57,9 +58,6 @@ Must do list:
 sudo apt install cowsay
 cowsay "Muu!!"
 ```
-```HTML
- ```
-
 ### Links
 
 * :octocat:[ My github clicking here](https://github.com/ViniciusOLopes)
